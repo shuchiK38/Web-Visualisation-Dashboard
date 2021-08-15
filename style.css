@@ -1,0 +1,30 @@
+/* Adding styles here */
+body{
+    background: white;
+
+}
+
+
+h1 {
+    font-size: 40px;
+    padding: 30px;
+    text-align: center;
+    background-color:greenyellow
+    ;
+    color: black;
+  }
+
+
+  img{
+    width: 100px;;
+    height: 100px;
+  } 
+
+
+
+@media(max-width :400px)
+{
+    .navbar-expand-lg{
+        background-color: blanchedalmond;
+    }
+}
