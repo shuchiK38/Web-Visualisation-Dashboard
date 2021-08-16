@@ -7,39 +7,39 @@ body {
 }
 
 .navbar {
-  max-height: 50px;
+  max-height: 75px;
 }
 .navigation .navbar-brand {
-  color: rgb(52, 149, 165);
+  color: rgb(154, 165, 52);
   margin-left: 0px;
   padding: inherit;
   font-weight: bold;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(192, 112, 112);
   font-family: cochin;
 }
 .navbar {
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(184, 21, 21);
   font-size: 25px; 
 }
 .active, .dropdown-menu .dropdown-item:active a:hover {
-  background-color: rgb(255,255,255);
+  background-color: rgb(199, 163, 163);
 }
 .dropdown-item {
-  color: rgba(52, 150, 165, 0.75);
+  color: rgba(156, 46, 74, 0.75);
 }
 .dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover {
   background-color: rgba(52, 150, 165, 0.75);
 }
 
 .nav-link:hover {
-  background-color:rgba(52, 150, 165, 0.75);
+  background-color:rgba(165, 52, 127, 0.75);
  }
 
 .navbar-brand:hover {
-color: rgb(45, 158, 175);
+color: rgb(128, 41, 155);
 }
 a {
-  color: rgb(231, 231, 231);
+  color: rgb(145, 110, 146);
   font-size: 15px;
 }
 
@@ -48,17 +48,17 @@ img{
   height:100%;
 }
 .active, .panel:hover {
-  border-color:rgb(52, 149, 165);
+  border-color:rgb(45, 102, 70);
   border-style: solid;
   
 }
 .vizualization {
-  width:50%;
-  height:50%;
+  width:50px;
+  height:50px;
 }
 
 .title {
-  color: rgb(52, 149, 165);
+  color: rgb(68, 163, 68);
   font-family: cochin;
   font-weight: bolder;
   padding-top: 10px;
@@ -74,36 +74,20 @@ font-size: 16px;
   margin-top: 50px;
   margin-bottom: 60px;
   padding: 10px 30px 10px;
-  color: #ffffff;
+  color: #bea842;
   background-color: rgb(255, 255, 255);
 
 }
 
 .table {
   font-size: 15px;
-  border-top-color: rgb(255, 255, 255);
+  border-top-color: rgb(221, 74, 74);
 }
 
-footer {
-background-color: #000000;
-border-top-style: solid;
-border-top-width: 5px;
-border-top-color: rgb(37, 80, 87);
-color: rgb(171, 222, 226);
-min-height: 50px;
-font-family: Menlo, Helvetica, sans-serif;
-font-size: 10px;
-text-align: center;
-position: fixed;
-left: 0;
-bottom: 0;
-width: 100%;
-padding-top: 15px;
-}
 
 @media(max-width: 992px) {
   .navbar-expand-lg {
-  background-color: #000000;
+  background-color: #e41111;
   }
   .navbar {
     max-height: none;
@@ -111,7 +95,7 @@ padding-top: 15px;
   }
   .navbar div {
     margin: inherit;
-    background-color: rgb(255,255,255);
+    background-color: rgb(51, 11, 11);
   }
   .navbar-brand {
     padding: 10px;
