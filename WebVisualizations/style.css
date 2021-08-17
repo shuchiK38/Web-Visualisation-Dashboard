@@ -85,6 +85,24 @@ font-size: 16px;
 }
 
 
+footer {
+  background-color: #000000;
+  border-top-style: solid;
+  border-top-width: 5px;
+  border-top-color: rgb(37, 80, 87);
+  color: rgb(171, 222, 226);
+  min-height: 50px;
+  font-family: Menlo, Helvetica, sans-serif;
+  font-size: 10px;
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding-top: 15px;
+  }
+  
+
 @media(max-width: 992px) {
   .navbar-expand-lg {
   background-color: #e41111;
