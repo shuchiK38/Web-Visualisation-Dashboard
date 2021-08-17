@@ -1,6 +1,7 @@
 body {
-  background-image :image(weatherimage.jpeg);
-  background-color: lightgreen;
+  background-image :url("../cloud_image.jpeg");
+  background-repeat: repeat ;
+  background-color: rgb(245, 238, 236);
   height: 750px;
   background-position: center;
   background-repeat: repeat;
@@ -29,7 +30,7 @@ body {
   color: rgba(117, 52, 68, 0.75);
 }
 .dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover {
-  background-color: rgba(52, 150, 165, 0.75);
+  background-color: rgba(160, 20, 43, 0.75);
 }
 
 .nav-link:hover {
