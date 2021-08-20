@@ -1,6 +1,8 @@
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
-https://shuchik38.github.io/Web_Design_Challenge/
+ This is the link for the web page :   https://shuchik38.github.io/Web_Design_Challenge/
+ 
+ ---------------------------------------------------------
 
 For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting 'WeatherPy' 
 
