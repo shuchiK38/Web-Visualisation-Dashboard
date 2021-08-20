@@ -1,3 +1,5 @@
+
+
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
  This is the link for the web page :   https://shuchik38.github.io/Web_Design_Challenge/
@@ -10,7 +12,8 @@ In building this dashboard, we'll create individual pages for each plot and a me
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
-![](images/filenamehttps://github.com/shuchiK38/Web_Design_Challenge/blob/main/images:screenshot/comparision.png)
+![main page](https://user-images.githubusercontent.com/81253160/130253645-1c2c55b6-405d-455a-b720-a5520aaf7ee3.png)
+
 
 
 
