@@ -77,12 +77,9 @@ Ensure your repository has regular commits (i.e. 20+ commits) and a thorough REA
 
 This section contains screenshots of each page that must be built, at varying screen widths. These are a guide; you can meet the requirements without having the pages look exactly like the below images.
 
-https://github.com/shuchiK38/Web_Design_Challenge/issues/1#issuecomment-902398143
-
-https://github.com/shuchiK38/Web_Design_Challenge/issues/1#issuecomment-902398384
-https://github.com/shuchiK38/Web_Design_Challenge/issues/1#issuecomment-902398548
-https://github.com/shuchiK38/Web_Design_Challenge/issues/1#issuecomment-902398757
-
-https://github.com/shuchiK38/Web_Design_Challenge/issues/1#issuecomment-902398887
-
-https://github.com/shuchiK38/Web_Design_Challenge/issues/1#issuecomment-902398992
+<img width="1317" alt="max temp and latitude" src="https://user-images.githubusercontent.com/81253160/130253793-705a946a-4c39-49bf-b4b3-fce4c84cd2e1.png">
+<img width="1317" alt="cloudiness" src="https://user-images.githubusercontent.com/81253160/130253866-a4562198-94d5-4336-94f9-8f44f8d4f8e4.png">
+<img width="1317" alt="humidity" src="https://user-images.githubusercontent.com/81253160/130253887-2d613a74-e67b-4beb-9b3d-ac4ef2ae4cec.png">
+<img width="1317" alt="wind speed" src="https://user-images.githubusercontent.com/81253160/130253897-2e7e2b1a-de59-4702-a69b-3803c99acdfe.png">
+<img width="1317" alt="comparision" src="https://user-images.githubusercontent.com/81253160/130253909-dff5868e-8e0b-4091-9b43-ab8676ec9b33.png">
+<img width="1317" alt="data" src="https://user-images.githubusercontent.com/81253160/130253919-967b547e-2a72-4a05-a72e-2613ee883d68.png">
