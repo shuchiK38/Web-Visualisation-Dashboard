@@ -1,0 +1,117 @@
+body {
+  background-image :url("cloud_image.jpeg");
+  background-repeat: repeat ;
+  background-color: rgb(245, 238, 236);
+  height: 750px;
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(40, 180, 82);
+}
+
+.navbar {
+  max-height: 75px;
+}
+.navigation .navbar-brand {
+  color: rgb(154, 165, 52);
+  margin-left: 0px;
+  padding: inherit;
+  font-weight: bold;
+  background-color: rgb(192, 112, 112);
+  font-family: cochin;
+}
+.navbar {
+  background-color: rgb(192, 129, 129);
+  font-size: 25px; 
+}
+.active, .dropdown-menu .dropdown-item:active a:hover {
+  background-color: rgb(199, 163, 163);
+}
+.dropdown-item {
+  color: rgba(117, 52, 68, 0.75);
+}
+.dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover {
+  background-color: rgba(160, 20, 43, 0.75);
+}
+
+.nav-link:hover {
+  background-color:rgba(165, 52, 127, 0.75);
+ }
+
+.navbar-brand:hover {
+color: rgb(128, 41, 155);
+}
+a {
+  color: rgb(145, 110, 146);
+  font-size: 15px;
+}
+
+img{
+  width:100%;
+  height:100%;
+}
+.active, .panel:hover {
+  border-color:rgb(45, 102, 70);
+  border-style: solid;
+  
+}
+.vizualization {
+  width:50px;
+  height:50px;
+}
+
+.title {
+  color: rgb(44, 168, 106);
+  font-family: cochin;
+  font-weight: bolder;
+  padding-top: 10px;
+}
+
+p {
+color: rgb(52, 149, 165);
+font-family: 'segoe ui';
+font-size: 16px;
+}
+
+.box {
+  margin-top: 50px;
+  margin-bottom: 60px;
+  padding: 10px 30px 10px;
+  color: #bea842;
+  background-color: rgb(255, 255, 255);
+
+}
+
+.table {
+  font-size: 15px;
+  border-top-color: rgb(221, 74, 74);
+}
+
+
+@media(max-width: 992px) {
+  .navbar-expand-lg {
+  background-color: #e41111;
+  }
+  .navbar {
+    max-height: none;
+    padding: inherit;
+  }
+  .navbar div {
+    margin: inherit;
+    background-color: rgb(51, 11, 11);
+  }
+  .navbar-brand {
+    padding: 10px;
+  }
+  button{
+    margin-right: 30px;
+  }
+  button:focus {
+    outline: 1px dotted;
+    outline: auto 5px;
+  }
+}
