@@ -12,7 +12,8 @@ In building this dashboard, we'll create individual pages for each plot and a me
 
 ## Latitude - Latitude Analysis Dashboard
 
-![main page](https://user-images.githubusercontent.com/81253160/130253645-1c2c55b6-405d-455a-b720-a5520aaf7ee3.png)
+![main page]![Main](https://user-images.githubusercontent.com/81253160/131045590-7dfef9bc-264e-4e76-b07e-585e546c1005.png)
+
 
 
 
