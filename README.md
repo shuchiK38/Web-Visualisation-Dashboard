@@ -1,3 +1,5 @@
+
+
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
  This is the link for the web page :   https://shuchik38.github.io/Web_Design_Challenge/
@@ -8,9 +10,10 @@ For this homework we'll be creating a visualization dashboard website using visu
 
 In building this dashboard, we'll create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 
-## Latitude - Latitude Analysis Dashboard with Attitude
+## Latitude - Latitude Analysis Dashboard
 
-![](images/filenamehttps://github.com/shuchiK38/Web_Design_Challenge/blob/main/images:screenshot/comparision.png)
+![main page](https://user-images.githubusercontent.com/81253160/130253645-1c2c55b6-405d-455a-b720-a5520aaf7ee3.png)
+
 
 
 
@@ -62,24 +65,15 @@ Ensure your repository has regular commits (i.e. 20+ commits) and a thorough REA
 * Be sure your website works at all window widths/sizes.
 * Feel free to take some liberty in the visual aspects, but keep the core functionality the same.
 
-### Bonuses
 
-* Use a different dataset! The requirements above still hold, but make it your own.
-* Use a Bootstrap theme to customize your website. You may use a tool like [Bootswatch](https://bootswatch.com/). Make it look snazzy, give it some attitude. If using this, be sure you also meet all of the requirements listed above.
-* Add extra visualizations! The more comparisons the better, right?
-* Use meaningful glyphicons next to links in the header.
-* Have visualization navigation on every visualizations page with an active state. See the screenshots below.
 
 ### Screenshots
 
-This section contains screenshots of each page that must be built, at varying screen widths. These are a guide; you can meet the requirements without having the pages look exactly like the below images.
+This section contains screenshots of each page that are built.
 
-https://github.com/shuchiK38/Web_Design_Challenge/issues/1#issuecomment-902398143
-
-https://github.com/shuchiK38/Web_Design_Challenge/issues/1#issuecomment-902398384
-https://github.com/shuchiK38/Web_Design_Challenge/issues/1#issuecomment-902398548
-https://github.com/shuchiK38/Web_Design_Challenge/issues/1#issuecomment-902398757
-
-https://github.com/shuchiK38/Web_Design_Challenge/issues/1#issuecomment-902398887
-
-https://github.com/shuchiK38/Web_Design_Challenge/issues/1#issuecomment-902398992
+<img width="1317" alt="max temp and latitude" src="https://user-images.githubusercontent.com/81253160/130253793-705a946a-4c39-49bf-b4b3-fce4c84cd2e1.png">
+<img width="1317" alt="cloudiness" src="https://user-images.githubusercontent.com/81253160/130253866-a4562198-94d5-4336-94f9-8f44f8d4f8e4.png">
+<img width="1317" alt="humidity" src="https://user-images.githubusercontent.com/81253160/130253887-2d613a74-e67b-4beb-9b3d-ac4ef2ae4cec.png">
+<img width="1317" alt="wind speed" src="https://user-images.githubusercontent.com/81253160/130253897-2e7e2b1a-de59-4702-a69b-3803c99acdfe.png">
+<img width="1317" alt="comparision" src="https://user-images.githubusercontent.com/81253160/130253909-dff5868e-8e0b-4091-9b43-ab8676ec9b33.png">
+<img width="1317" alt="data" src="https://user-images.githubusercontent.com/81253160/130253919-967b547e-2a72-4a05-a72e-2613ee883d68.png">
