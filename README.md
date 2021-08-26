@@ -71,8 +71,7 @@ Ensure your repository has regular commits (i.e. 20+ commits) and a thorough REA
 ### Screenshots
 
 This section contains screenshots of each page that are built.
-
-<img width="1317" alt="max temp and latitude" src="https://user-images.githubusercontent.com/81253160/130253793-705a946a-4c39-49bf-b4b3-fce4c84cd2e1.png">
+![temperature](https://user-images.githubusercontent.com/81253160/131045732-62bab568-96c8-4e38-9c98-154ea45e573a.png)
 <img width="1317" alt="cloudiness" src="https://user-images.githubusercontent.com/81253160/130253866-a4562198-94d5-4336-94f9-8f44f8d4f8e4.png">
 <img width="1317" alt="humidity" src="https://user-images.githubusercontent.com/81253160/130253887-2d613a74-e67b-4beb-9b3d-ac4ef2ae4cec.png">
 <img width="1317" alt="wind speed" src="https://user-images.githubusercontent.com/81253160/130253897-2e7e2b1a-de59-4702-a69b-3803c99acdfe.png">
