@@ -67,6 +67,8 @@ Ensure your repository has regular commits (i.e. 20+ commits) and a thorough REA
 ![plots dropdown](https://user-images.githubusercontent.com/81253160/136709449-d7aacbac-cc0a-49a0-8e54-42ebba2bbb58.png)
 ![temperature](https://user-images.githubusercontent.com/81253160/136709475-ee443f44-420f-46b0-9e1f-da2086465b04.png)
 ![wind speed ](https://user-images.githubusercontent.com/81253160/136709501-2804d730-465b-4211-82b3-c5e8c73f3f7e.png)
+![comparison](https://user-images.githubusercontent.com/81253160/136709518-d1cad790-d173-42f5-b2cc-0c63f8e39abf.png)
+
 
 
 
