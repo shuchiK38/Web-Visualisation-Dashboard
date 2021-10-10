@@ -1,6 +1,6 @@
 
 
-# Web Design Homework - Web Visualization Dashboard (Latitude)
+# Web Design Homework - Web Visualization Dashboard
 
  This is the link for the web page :   https://shuchik38.github.io/Web_Design_Challenge/
  
