@@ -65,6 +65,8 @@ Ensure your repository has regular commits (i.e. 20+ commits) and a thorough REA
 
 ###Screenshots
 ![plots dropdown](https://user-images.githubusercontent.com/81253160/136709449-d7aacbac-cc0a-49a0-8e54-42ebba2bbb58.png)
+![temperature](https://user-images.githubusercontent.com/81253160/136709475-ee443f44-420f-46b0-9e1f-da2086465b04.png)
+
 
 
 
