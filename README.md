@@ -64,6 +64,8 @@ Ensure your repository has regular commits (i.e. 20+ commits) and a thorough REA
 * Feel free to take some liberty in the visual aspects, but keep the core functionality the same.
 
 ###Screenshots
+![plots dropdown](https://user-images.githubusercontent.com/81253160/136709449-d7aacbac-cc0a-49a0-8e54-42ebba2bbb58.png)
+
 
 
 
